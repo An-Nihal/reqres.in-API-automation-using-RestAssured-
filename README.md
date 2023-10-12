@@ -10,7 +10,6 @@ This repository contains automated tests for [reqres.in](https://reqres.in/) API
 - [Project Structure](#project-structure)
 - [Running the Tests](#running-the-tests)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Tools and Technologies
